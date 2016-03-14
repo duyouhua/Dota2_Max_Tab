@@ -1,8 +1,13 @@
+# IntelliJ IDEA
+.idea
 *.iml
+
+# Gradle
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+build
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Mac system files
 .DS_Store
-/build
-/captures
